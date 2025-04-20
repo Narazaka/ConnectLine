@@ -14,3 +14,4 @@ jobs:
     uses: Narazaka/vpm-repos/.github/workflows/release.yml@main
     with:
       novcc: false
+      repos: https://lilxyzw.github.io/vpm-repos/vpm.json

@@ -1,8 +1,14 @@
 # Connect Line
 
-desc
+**[English](README.en.md)**
+
+2点間を結ぶ直線メッシュ
 
 ## Install
+
+### OpenUPM
+
+See [OpenUPM page](https://openupm.com/packages/net.narazaka.unity.connect-line/)
 
 ### VCC用インストーラーunitypackageによる方法（おすすめ）
 
@@ -16,7 +22,8 @@ https://github.com/Narazaka/ConnectLine/releases/latest から `net.narazaka.uni
 
 ## Usage
 
-TODO
+1. UnityConstraintまたはVRCConstraintのお好みの方を選び、LineStart prefabを配置します。
+2. LineStartとLineEndを好きな位置に追従させます。（Position ConstraintやMA Bone Proxyで）
 
 ## License
 
